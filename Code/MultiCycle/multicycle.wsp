@@ -1,0 +1,7 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Built-in symbols=0
+MultiCycle=0
+[COMPILESTATUS|.\src\CPU.v]
+FileTimeLow=2209301105
+FileTimeHigh=31114446
+Status=Compiled
