@@ -82,4 +82,14 @@ This type includes the following instruction formats. The opcode is used to dist
 | 4 bits| 3 bits | 8 bits        |
 
 
-- `Sv  Rs, imm`:  M[rs] = imm 
+- `Sv  Rs, imm`:  M[rs] = imm
+<br>
+
+
+## Team Member:
+
+* [Omar Masalmah](https://github.com/Omarmasalmah) <br>
+* [Ahmad Bakri](https://github.com/AhmadBakri7) <br>
+* [Batool Hammouda](https://github.com/BatoolHammouda)
+
+
