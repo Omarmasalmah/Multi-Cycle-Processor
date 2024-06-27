@@ -1,10 +1,10 @@
 /*         ****************************************************************************
-          *                 Title: Multi-Cycle-Processor                              *
+          *                     Title: Multi-Cycle-Processor                          *
           *                                                                           *
-          *	                 ---------> Authors <-------- 			                  *
-          *		           Omar Masalmah	           1200060   	                  *
-          *		           Ahmad Bakri 	               1201509	                      *
-          *                Batool Hammouda             1202874                        *
+          *	                 ---------> Authors <-------- 		              *
+          *		      Omar Masalmah	      1200060   	              *
+          *		      Ahmad Bakri 	      1201509	                      *
+          *                   Batool Hammouda         1202874                         *
           *****************************************************************************										 */
 
 
